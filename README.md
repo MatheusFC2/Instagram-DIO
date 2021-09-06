@@ -20,11 +20,11 @@ ___
 ___
 
 <p align="center">
-  <img src="" max-width="800">
+  <img alt="img do projeto desktop" src="https://raw.githubusercontent.com/MatheusFC2/Instagram-DIO/master/img/img-readme.png" max-width="800">
 </p>
 
 <p align="center">
-  <img src="" max-width="800">
+  <img alt="img do projeto responsivo" src="https://raw.githubusercontent.com/MatheusFC2/Instagram-DIO/master/img/imgcell-readme.png" max-width="800">
 </p>
 
 ## :information_source: Sobre
